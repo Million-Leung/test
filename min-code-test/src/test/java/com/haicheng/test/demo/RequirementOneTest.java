@@ -1,6 +1,7 @@
-package com.haicheng.test;
+package com.haicheng.test.demo;
 
 
+import com.haicheng.test.demo.RequirementOne;
 import org.junit.Test;
 
 import static org.junit.Assert.assertNotNull;

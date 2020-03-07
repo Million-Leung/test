@@ -1,5 +1,6 @@
-package com.haicheng.test;
+package com.haicheng.test.demo;
 
+import com.haicheng.test.demo.RequirementTwo;
 import org.junit.Test;
 
 /**

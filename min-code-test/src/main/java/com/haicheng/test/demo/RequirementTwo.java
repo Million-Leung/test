@@ -1,4 +1,4 @@
-package com.haicheng.test;
+package com.haicheng.test.demo;
 
 import java.util.ArrayList;
 import java.util.Arrays;
